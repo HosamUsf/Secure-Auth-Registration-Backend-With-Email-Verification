@@ -1,6 +1,6 @@
 # Login Registration Backend 
 
-Complete login registration backend system using Spring Boot.
+Complete login registration backend system with Email verification using Spring Boot.
 
 
 - [x] Spring Boot
