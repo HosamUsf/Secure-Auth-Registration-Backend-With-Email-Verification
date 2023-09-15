@@ -17,7 +17,7 @@ Complete login registration backend system using Spring Boot.
 
 ## Example requests
 ### Postman
-![Capture1](https://github.com/HosamUsf/login-and-registration-tutorial/assets/57178026/db30caec-c37b-4ce0-952b-bd8f32ff4c8e)
+![Capture1](https://github.com/HosamUsf/login-and-registration-tutorial/assets/57178026/688705fd-4419-4a3d-9186-3dd2884c0cf3)
 
 ### CURL
 ```
