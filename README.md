@@ -1,6 +1,6 @@
 # Login Registration Backend 
 
-Discover a sophisticated backend solution for user login and registration, meticulously crafted with Spring Boot. This repository showcases a robust authentication system fortified by Spring Security, seamless communication facilitated by Java Mail, and a meticulous email verification mechanism complete with expiration features. Elevate your application's security and user experience by integrating this professionally designed Spring Boot solution into your project
+Discover a sophisticated backend solution for user login and registration, meticulously crafted with Spring Boot. This repository showcases a robust authentication system fortified by Spring Security, seamless communication facilitated by Java Mail, and a meticulous email verification mechanism complete with expiration features. Elevate your application's security and user experience by integrating this professionally designed Spring Boot solution into your project.
 
 - [x] Spring Boot
 - [x] Spring Security
